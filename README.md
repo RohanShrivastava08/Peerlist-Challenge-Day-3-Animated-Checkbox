@@ -1,5 +1,8 @@
 # 🚀 ⚡ Animated Checkbox – Peerlist Challenge Day 3 Submission
 
+![Screenshot (60)](https://github.com/user-attachments/assets/648b3b08-3c73-47c4-aa42-bfabc3e63cbb)
+
+![Screenshot (58)](https://github.com/user-attachments/assets/1482b591-e675-4143-81a3-5ad6867c4846)
 
 
 - A sleek, interactive, and visually delightful checkbox component built using React, Vite + TypeScript, Tailwind CSS, and Framer Motion — crafted for Peerlist's #5Days Challenge (Day 3).
